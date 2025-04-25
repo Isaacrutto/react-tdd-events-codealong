@@ -47,7 +47,7 @@ that will enable the user to add pepperoni to their pizza if they choose. Below
 that, we'll want to display a list of the selected toppings. That list should
 initially have "Cheese" as the only topping, and should update to include
 "Pepperoni" if the user clicks the checkbox. Finally, we should make sure that
-if users change their mind, they can remove pepperoni by clicking the checkbox a
+if users change their mind, they can remove pepperoni by clicking the check.box a
 second time.
 
 In general, when writing tests for user events, we want to do the following:
